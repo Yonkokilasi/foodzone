@@ -1,11 +1,13 @@
 
-# Kula Hapa Website
+## Kula Hapa Website
 [Project site]( https://pmutua.github.io/)
-Project Members:
+
+##Project Members:
 * [Philip Mutua](pmutua@live.com)
 * [Collins Mwiti ](collotush@gmail.com) 
 * [Marcelline Guto](gmercylyne@gmail.com) 
 * [Yonko Kilasi](yonkokilasi@gmail.com) 
+
 ## Description
 This is my personal website portfolio i created 
 The wesite comprises of different pages you can navigate through :
