@@ -7,13 +7,19 @@
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<!--Load custom css-->
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<!--Load jQuery-->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<!--Load bootstrap js-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 </head>
 
 <body>
 	<header>
 		<!--Beginning of header-->
-		<h1 style="text-align:center">KULA HAPA</h1>
+		<button class="btn">Login</button>
+		<h2> <img alt="KulaHapa" src="images/kulahapa.png"></h2>
+
 	</header>
 	<!--End of header-->
 
@@ -24,25 +30,47 @@
 			<!--Beginning of columns-->
 			<div class="one-third column">
 				<!--Beginning of one third column-->
+				<div class="col-md-3">
+					<!--Beginning of Nav bar-->
+					<div class="navbar">
+						<nav class="navbar navbar-default">
+							<div class="container-fluid">
+								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+									<ul class="nav navbar-nav">
+										<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+										<li><a href="#">About</a></li>
+										<li><a href="#">Contacts</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Feedback</a></li>
+									</ul>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</div>
+				<!--End of Nav bar-->
 				<div class="container">
 					<!--Beginning of a search menu-->
 					<div class="row">
-						<div class="col-md-3">
-							<h2>Search menu</h2>
-							<div id="custom-search-input">
-								<div class="input-group col-md-12">
-									<input type="text" class="form-control input-lg" placeholder="Search" />
-									<span class="input-group-btn">
+						<div class="search">
+							<div class="col-md-10">
+								<h2>Get menu</h2>
+								<div id="custom-search-input">
+									<div class="input-group col-md-12">
+										<input type="text" class="form-control input-lg" placeholder="Search restaurant" />
+										<span class="input-group-btn">
 												<button class="btn btn-info btn-lg" type="button">
 														<i class="glyphicon glyphicon-search"></i>
 												</button>
 										</span>
+									</div>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!--End of a search menu-->
+
 
 			</div>
 			<!--End of one third column-->
