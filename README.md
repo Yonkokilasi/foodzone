@@ -9,12 +9,13 @@
 * [Yonko Kilasi](yonkokilasi@gmail.com) 
 
 ## Description
-This is my personal website portfolio i created 
+e-resturant 
 The wesite comprises of different pages you can navigate through :
 ### Technologies Used
 * HTML
 * CSS
 * Bootstrap
+* Javascript
 
 ## Setup and Installation
 Make sure you have git installed. On the terminal, navigate to your workspace directory and run
