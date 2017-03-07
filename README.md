@@ -1,4 +1,6 @@
 
+
+![KulaHapa website Logo](/images/final logo.png)
 ## Kula Hapa Website
 [Project site]( https://pmutua.github.io/)
 
