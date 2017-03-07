@@ -2,6 +2,8 @@
 ## Kula Hapa Website
 [Project site]( https://pmutua.github.io/)
 
+![KulaHapa website Logo](/images/klogo2.png)
+
 ##Project Members:
 * [Philip Mutua](pmutua@live.com)
 * [Collins Mwiti ](collotush@gmail.com) 
