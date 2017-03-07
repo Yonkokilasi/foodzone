@@ -1,4 +1,7 @@
-/* beginning of header login button styling */
+/*Beginning of header*/
+
+
+/* Beginning of login button styling */
 
 button {
   border: 0;
@@ -16,7 +19,12 @@ button {
 }
 
 
-/*end of header login button styling */
+/*Ending of login button styling */
+
+
+/*End of header
+
+/*Beginning of body*/
 
 
 /* beginning of search styling*/
@@ -42,7 +50,21 @@ button {
 }
 
 
-/*end of navbar styling*/
+/*End of navbar styling*/
+
+
+/*Beginning of body styling*/
+
+body {
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+}
+
+
+/*End of body styling*/
+
+
+/*End of body*/
 
 
 /*Begining of footer*/
