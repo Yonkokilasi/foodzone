@@ -1,6 +1,6 @@
 //login js
 $(document).ready(function () {
-  $("#landing").slideDown(4);
+  $("#landing").slideDown(4000);
   var Anita = "A3220";
   $("form#blanks").submit(function (event) {
     event.preventDefault();

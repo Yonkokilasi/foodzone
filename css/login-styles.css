@@ -1,0 +1,58 @@
+/*/// login css*/
+
+.col-md-6 {
+  border-right: 2px solid #dedcdb;
+}
+
+{}
+
+h1 {
+  font-family: 'Droid Serif', serif;
+}
+
+h2 {
+  font-family: 'PT Sans Caption', sans-serif;
+}
+
+p {
+  font-family: 'Cinzel', serif;
+}
+
+#quote {
+  font-size: 35px;
+  padding-left: 30px;
+}
+
+#name {
+  color: skyblue;
+  font-size: 40px;
+  text-shadow: 3px 3px 3px white;
+}
+
+#logo {
+  margin-left: 600px;
+  height: 200px;
+  width: 200px;
+}
+
+#blanks {
+  color: whitesmoke;
+}
+
+
+/*end of login*/
+
+.header:hover {
+  opacity: 1;
+}
+
+body {
+  background-image: url("../images/Cake_Sugar.gif");
+  background-size: cover;
+  font-family: 'Noto Serif', serif;
+  color: skyblue;
+}
+
+#landing {
+  display: none;
+}
