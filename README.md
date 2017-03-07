@@ -1,8 +1,8 @@
 
-## Kula Hapa Website
-[Project site]( https://pmutua.github.io/)
 
 ![KulaHapa website Logo](/images/klogo2.png)
+## Kula Hapa Website
+[Project site]( https://pmutua.github.io/)
 
 ##Project Members:
 * [Philip Mutua](pmutua@live.com)
