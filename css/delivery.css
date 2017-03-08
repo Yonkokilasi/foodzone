@@ -1,9 +1,9 @@
 /*Beginning of bookreservations.html*/
 
 body {
-  background-image: url(../images/delivery.jpg);
+  background-image: url(../images/dark.jpg);
   background-size: cover;
-  color: black;
+  color: white;
 }
 
 
@@ -22,6 +22,22 @@ button {
   padding: 12px 20px;
   transition: all .1s linear;
   float: right;
+}
+
+
+/* Delivery.html styling */
+
+.flex-wrap-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.restaurant-thumbnail {
+  margin: 10px;
+}
+
+.restaurant-thumbnail .project-image {
+  max-width: 225px;
 }
 
 
