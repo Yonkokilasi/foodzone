@@ -202,6 +202,9 @@ p {
     height: 200px;
     width: 200px;
 }
+#hide {
+    display: none;
+}
 
 /*navbar*/
 
