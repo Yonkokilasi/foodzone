@@ -8,7 +8,7 @@ function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
   document.getElementById("main").style.marginLeft = "0";
 }
-//end 
+//end
 //login js
 $(document).ready(function () {
   $("#landing").slideDown(4000);
@@ -35,6 +35,7 @@ $(document).ready(function () {
     });
     return false;
   }); //toggle
+  
 });
 //end
 //Feedback html
