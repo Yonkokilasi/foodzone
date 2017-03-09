@@ -12,7 +12,7 @@ function closeNav() {
 //login js
 $(document).ready(function () {
     $("#landing").slideDown(4000);
-    var Anita = "A3220";
+    var Anita = "a3220qwsasdsssad";
     $("form#blanks").submit(function (event) {
         event.preventDefault();
         var userInput = $("input#foodID").val();
