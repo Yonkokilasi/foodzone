@@ -18,7 +18,7 @@ $(document).ready(function () {
         var userInput = $("input#foodID").val();
         $("input#foodID").val("");
         if (userInput === Anita) {
-            alert("Welcome to Anita's Kitchen");
+            $("#anita").show();
         } else {
             alert("Sorry wrong ID try again");
         };
