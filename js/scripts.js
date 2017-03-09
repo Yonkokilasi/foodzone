@@ -12,13 +12,13 @@ function closeNav() {
 //login js
 $(document).ready(function () {
     $("#landing").slideDown(4000);
-    var Anita = "a3220qwsasdsssad";
+    var Anita = "a3220";
     $("form#blanks").submit(function (event) {
         event.preventDefault();
         var userInput = $("input#foodID").val();
         $("input#foodID").val("");
         if (userInput === Anita) {
-            $("#anita").show();
+            $("#anita").fadeToggle();
         } else {
             alert("Sorry wrong ID try again");
         };
