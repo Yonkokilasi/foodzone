@@ -234,6 +234,27 @@ button {
 }
 
 
+/*logo*/
+
+#logos {
+    background-image: url("../images/Turkish-Cuisine-Food-HD-Wallpaper.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 50vh;
+}
+#logo {
+    margin-left: 650px;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-right: -60px;
+    padding: 1px;
+}
+
+/*end of logo*/
+
+
+
 /*End of footer*/
 
 h1 {
@@ -253,16 +274,6 @@ p {
   font-family: 'Cinzel', serif;
 }
 
-#logo {
-  margin-left: 450px;
-  height: 200px;
-  width: 200px;
-  margin-top: -120px;
-}
-
-.show {
-  visibility: none;
-}
 
 
 /*navbar*/
@@ -342,11 +353,20 @@ p {
 /*flexbox moving pictures*/
 
 .flex-wrap-container {
+
+    padding-top: -600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-self: right;
+}
+
+=======
   padding-top: -600px;
   display: flex;
   flex-wrap: wrap;
   align-self: right;
 }
+
 
 
 /*end*/

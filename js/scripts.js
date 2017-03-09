@@ -8,7 +8,7 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0%";
 
 }
-//end
+
 //login js
 $(document).ready(function () {
     $("#landing").slideDown(4000);
