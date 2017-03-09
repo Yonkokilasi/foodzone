@@ -8,9 +8,13 @@ function closeNav() {
     document.getElementById("mySidenav").style.width = "0%";
 
 }
+<<<<<<< HEAD
 //end 
 
 
+=======
+//end
+>>>>>>> e6924e4ef62b60883e8864822fea344b241513b7
 //login js
 $(document).ready(function () {
     $("#landing").slideDown(4000);
@@ -25,17 +29,6 @@ $(document).ready(function () {
             alert("Sorry wrong ID try again");
         };
     });
-    jQuery(".pull_feedback").toggle(function () {
-        jQuery("#feedback").animate({
-            left: "0px"
-        });
-        return false;
-    }, function () {
-        jQuery("#feedback").animate({
-            left: "-362px"
-        });
-        return false;
-    }); //toggle
 
 });
 //end

@@ -2,7 +2,7 @@
 
 ![KulaHapa website Logo](/images/final logo.png)
 ## Kula Hapa Website
-[Project site]( https://pmutua.github.io/)
+[Project site]( https://pmutua.github.io/foodzone)
 
 ##Project Members:
 * [Philip Mutua](pmutua@live.com)

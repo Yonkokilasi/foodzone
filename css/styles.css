@@ -198,9 +198,11 @@ p {
     font-family: 'Cinzel', serif;
 }
 #logo {
-    margin-left: 600px;
+    margin-left: 550px;
     height: 200px;
     width: 200px;
+    margin-top: -120px;
+
 }
 .show {
     visibility: none;
@@ -270,5 +272,18 @@ p {
 .item img {
     max-height: 600px;
 }
+
+/*end*/
+
+/*flexbox moving pictures*/
+.flex-wrap-container{
+    padding-top: -600px;
+    display: flex;
+    flex-wrap: wrap;
+    align-self:right;
+
+}
+
+
 
 /*end*/
